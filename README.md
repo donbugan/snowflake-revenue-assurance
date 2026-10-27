@@ -88,7 +88,7 @@ discount was never applied. Those are not in the answer key: they are findings.
   changes nothing.
 - Checks: one current row per contract, the history of each amended contract, and a point-in-time lookup.
 
-## What this demonstrates, honestly
+## What this covers
 
 Medallion layering, `COPY INTO` with load lineage, typed casting with a rejects table, a SQL UDF,
 deterministic and fuzzy entity resolution, exception datasets with evidence, source-to-target counts,
